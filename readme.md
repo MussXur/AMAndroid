@@ -54,7 +54,7 @@ Additional Hosts File Sources:
 
     [<img src="./img/allowurl.jpg" alt="Get it on GitHub" height="500">]
 
-- Also, add these host sources to block:
+- **Hosts File Sources**:
 
   - [Anti-Porn HOSTS File](https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt)
   - [StevenBlack's Hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
